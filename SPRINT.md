@@ -38,3 +38,6 @@ Página de detalhes do produto -> Dev
 Logout do sistema -> Dev
 Cadastro de produtos (tenis) -> Dev
 Listagens do produto -> Dev
+
+
+10 Dias para terminar.

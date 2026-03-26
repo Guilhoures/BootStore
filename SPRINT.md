@@ -1,4 +1,4 @@
-  Sprint da loja BootStore
+    Sprint da loja BootStore
 
 
   A fazer:

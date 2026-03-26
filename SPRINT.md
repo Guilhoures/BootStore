@@ -3,41 +3,41 @@
 
   A fazer:
   
-Filtro por marca -> Dev
-Filtro por tamanho -> Dev
-Filtro por preço -> Dev
-Sistema de busca por nome -> Dev
-Histórico de pedidos -> Dev
-Página de perfil do usuário -> Dev
-Sistema de categorias (ex: corrida, casual) -> Dev
-Ordenação de produtos (preço, popularidade) -> Dev
-Upload de imagem do produto -> Dev
-Tela de erro (produto indisponível) -> Dev
-Avaliação de produtos (comentários) -> Dev
-Página de ajuda / FAQ -> Dev
-Notificações (pedido confirmado, enviado) -> Dev
-Lista de favoritos -> Dev
-Aplicação de cupom de desconto -> Dev
+Filtro por marca -> Dev. Gui
+Filtro por tamanho -> Dev. Gui
+Filtro por preço -> Dev. Gui
+Sistema de busca por nome -> Dev. Gui
+Histórico de pedidos -> Dev. Gui
+Página de perfil do usuário -> Dev. Gui
+Sistema de categorias (ex: corrida, casual) -> Dev. Gui
+Ordenação de produtos (preço, popularidade) -> Dev. Gui
+Upload de imagem do produto -> Dev. Gui
+Tela de erro (produto indisponível) -> Dev. Gui
+Avaliação de produtos (comentários) -> Dev. Gui
+Página de ajuda / FAQ -> Dev. Gui
+Notificações (pedido confirmado, enviado) -> Dev. Gui
+Lista de favoritos -> Dev. Gui
+Aplicação de cupom de desconto -> Dev. Gui
 
   Fazendo:
 
-Validaçaoo de senha -> Dev
-Controle de estoque -> Dev
-Confirmaçao de pedido -> Dev
-Seleçao de forma de pagamento -> Dev
-Cadastro de endereço -> Dev
+Validaçaoo de senha -> Dev. Gui
+Controle de estoque -> Dev. Gui
+Confirmaçao de pedido -> Dev. Gui
+Seleçao de forma de pagamento -> Dev. Gui
+Cadastro de endereço -> Dev. Gui
 
   Feito:
 
-Finalizar compra -> Dev
-Atualizar quantidade no carrinho -> Dev
-Remover produto do carrinho -> Dev
-Adicionar produto ao carrinho -> Dev
-Login do usuário -> Dev
-Página de detalhes do produto -> Dev
-Logout do sistema -> Dev
-Cadastro de produtos (tenis) -> Dev
-Listagens do produto -> Dev
+Finalizar compra -> Dev. Gui
+Atualizar quantidade no carrinho -> Dev. Gui
+Remover produto do carrinho -> Dev. Gui
+Adicionar produto ao carrinho -> Dev. Gui
+Login do usuário -> Dev. Gui
+Página de detalhes do produto -> Dev. Gui
+Logout do sistema -> Dev. Gui
+Cadastro de produtos (tenis) -> Dev. Gui
+Listagens do produto -> Dev. Gui
 
 
 10 Dias para terminar.

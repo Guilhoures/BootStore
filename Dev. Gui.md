@@ -15,7 +15,6 @@ Seleção de forma de pagamento.
 Confirmação de pedido.
 Controle de estoque.
 Validação de login e senha.
-
 Filtro por marca.
 Filtro por tamanho.
 Filtro por preço.
@@ -26,9 +25,11 @@ Upload de imagem do produto.
 Sistema de categorias (ex: corrida, casual).
 Ordenação de produtos (preço, popularidade).
 Tela de erro (produto indisponível).
-
 Lista de favoritos.
 Avaliação de produtos (comentários).
 Aplicação de cupom de desconto.
 Notificações (pedido confirmado, enviado).
 Página de ajuda / FAQ.
+
+    Linguagens utilizadas:
+HTML, CSS, JAVASCRIPT E SQL

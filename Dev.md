@@ -1,4 +1,4 @@
-  Atividade que o dev fez:
+    Atividade que o dev fez:
 
 Cadastro de usuário.
 Login de usuário.

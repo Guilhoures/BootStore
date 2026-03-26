@@ -40,4 +40,4 @@ Cadastro de produtos (tenis) -> Dev. Gui
 Listagens do produto -> Dev. Gui
 
 
-10 Dias para terminar.
+3 semanas para terminar.
